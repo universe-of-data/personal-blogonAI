@@ -2,7 +2,11 @@
 
 ![Practical GitHub Actions][lil-thumbnail-url] 
 
-<img src="https://raybo.org/tfit-feed/images/artwork2.jpg" width="250">
+<img src="https://universe-of-data.github.io/podcast-feed-on-AI/images/artwork2.jpg" width="250">
+
+
+
+https://github.com/universe-of-data/podcast-feed-on-AI/blob/main/images/artwork2.jpg
 
 The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Tester Software Rakshitha](https://www.linkedin.com/in/planetoftheweb).
 
