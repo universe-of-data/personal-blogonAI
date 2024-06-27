@@ -1,4 +1,4 @@
-title: The Future in AI in Tech populate this
+title: AI Insights Hub
 subtitle: Powered by universer of data
 author: Software Tester
 description: Conversations with leaders building next generation techology tools.
@@ -6,7 +6,7 @@ image: /images/artwork2.jpg
 language: en-us
 category: Technology
 format: audio/mpeg
-link: http://raybo.org/podcast-test
+link: https://universe-of-data.github.io/podcast-feed-on-AI/
 item:
   - title: EP01-What's Happening in 2023
     description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
