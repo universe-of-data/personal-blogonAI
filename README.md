@@ -16,8 +16,6 @@ You'll get to hear from people who are not just discussing, but actually creatin
 
 ---
 ## More Info
-- [The Future in Tech Page](https://go.raybo.org/tfit)
 - [Episode Guide](https://go.raybo.org/tfit-episodes)
-- [YouTube Playlist](https://go.raybo.org/tfit-youtube)
-- [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
-- [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PL8ma6z43eOQERcDfI2tPyN10hTjcth9xe)
+- [Newsletter](https://www.linkedin.com/newsletters/the-atlas-7075090904906149891/)
