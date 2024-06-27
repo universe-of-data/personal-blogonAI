@@ -1,6 +1,6 @@
 # This is an Test for my project
 
-<img src="https://raybo.org/tfit-feed/images/image.jpg" width="250">
+<img src="https://raybo.org/tfit-feed/images/artwork2.jpg" width="250">
 
 The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Tester Software Rakshitha](https://www.linkedin.com/in/planetoftheweb).
 
